@@ -1,0 +1,10 @@
+streamlit
+openai
+pypdf
+scikit-learn
+numpy
+python-dotenv
+python-docx
+pandas
+openpyxl
+Pillow
